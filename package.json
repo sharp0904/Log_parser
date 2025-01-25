@@ -1,0 +1,19 @@
+{
+  "name": "log-parser",
+  "version": "1.0.0",
+  "description": "A log parser to analyze web traffic and provide page view statistics.",
+  "main": "log_parser.js",
+  "scripts": {
+    "start": "node log_parser.js",
+    "test": "jest"
+  },
+  "author": "Felix",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
