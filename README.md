@@ -20,7 +20,7 @@ A simple application to parse web server logs and output statistics for:
 
 1. Clone the repository or create a new directory for your project:
    ```bash
-   git clone {url}
+   git clone [{url}](https://github.com/sharp0904/Log_parser)
 2. Initialize a Node.js project and install dependencies
    ```bash
    npm install
